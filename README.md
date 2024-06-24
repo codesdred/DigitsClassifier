@@ -13,3 +13,6 @@
    
 5. Now run `python wsgi.py`
 6. Flask application will start in the localhost.
+
+# Video Demo of Project
+[https://www.loom.com/share/e72bf880861049079670c9b99def7274?sid=8db627b3-c6ec-45cc-923f-c0654f5529e9](Digits Classifier)
